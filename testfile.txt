@@ -1,0 +1,2 @@
+this is a text in the test file created in my local computer and am gonna do
+add,commit and push functions on the git local account to get these modifications on my remote repository.
